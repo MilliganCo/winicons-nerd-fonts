@@ -1,0 +1,5 @@
+folders.txt
+cache/
+icons/
+__pycache__/
+*.pyc

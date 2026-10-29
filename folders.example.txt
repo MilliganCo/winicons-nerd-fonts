@@ -1,0 +1,7 @@
+# Synthetic examples only; no real user directory names are included.
+# Paths are literal and relative to the directory from which Python is launched.
+# Environment variables and ~ are not expanded by the current script.
+# Create disposable folders for a first test, then edit a private folders.txt.
+# glyph-name  #RRGGBB  folder path
+md-folder #4f8cff .\demo\example-a
+md-folder #ffa040 .\demo\example-b
